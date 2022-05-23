@@ -1,0 +1,16 @@
+.text-primary {
+    padding-bottom: 25px;
+}
+.table td,
+.table th {
+    vertical-align: middle;
+}
+
+img.img-thumbnail {
+    width: 64px;
+    height: 64px;
+    border-radius: 50px;
+}
+span.page-link {
+    cursor: pointer;
+}
